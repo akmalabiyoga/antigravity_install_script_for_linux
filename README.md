@@ -7,3 +7,5 @@ Steps:
 - download the script here
 - make it executable, the script (you need to know this already if you use linux)
 - then run the script to install the antigravity
+
+for uninstalling, it just remove the .desktop file, you need to delete the antigravity folder manually. Its on purpose
